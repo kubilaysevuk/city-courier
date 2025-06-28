@@ -3,7 +3,7 @@
 Plugin Name: CityCourier – Kurye Siparişi ve Takip Sistemi
 Description: Tek sayfa (tabs) form mantığıyla çalışan kurye hizmeti formu. JS ile adım geçişi yapar.
 Version: 1.1
-Author: GKSoft
+Author: GKSofttt
 */
 
 if (!defined('ABSPATH')) exit;
